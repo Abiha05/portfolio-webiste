@@ -26,5 +26,5 @@ https://your-username.github.io/portfolio-website/
 4. The website will open in a web browser
 
 ## Author
-Name: Your Name  
+Name: ume Abiha 
 Course: Web Development
